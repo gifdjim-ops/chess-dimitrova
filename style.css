@@ -22,7 +22,6 @@ body { margin: 0; }
 .brand-name strong { font-size: 19px; font-weight: 400; letter-spacing: .015em; }
 .hero-content { margin: 76px 4.6% 66px 52%; width: 43.4%; max-width: 780px; }
 .eyebrow { display: flex; align-items: center; gap: 12px; color: #ddd2b5; font-size: 11px; letter-spacing: .18em; text-transform: uppercase; margin-bottom: 29px; }
-.eyebrow span { width: 29px; height: 1px; background: var(--gold); }
 h1 { font-family: Georgia, 'Times New Roman', serif; font-size: clamp(66px, 5.55vw, 112px); line-height: 1.035; font-weight: 400; letter-spacing: -.045em; margin: 0; }
 h1 em { color: var(--gold); font-weight: 400; letter-spacing: -.06em; }
 .join { margin-top: 43px; }
